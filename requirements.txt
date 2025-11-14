@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+matplotlib==3.9.0
+numpy==1.26.4
+python-dotenv==1.0.1
